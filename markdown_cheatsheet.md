@@ -2,32 +2,32 @@
 
 ### Italics and bold
 
-1. To make a phrase italic surround the word with an underscore _
+1. To make a phrase italic surround the word with an underscore _ 
 ex. I am _Magda_
 
-2. To make a phrase bold surround words with asterisks **
+2. To make a phrase bold surround words with asterisks **  
 ex. I **am Magda**
 
-3. To mix it we surround words with asterisks first and then underscore **_
+3. To mix it we surround words with asterisks first and then underscore **_  
 ex. I **_am Magda_**
 
 ### Links
 
-1. Inline link - wrapping link text in a brackets and then wrap the link in parentheses [text](link 
+1. Inline link - wrapping link text in a brackets and then wrap the link in parentheses [text](link  
 ex. [Visit Github!](www.github.com)
 
 2. Reference link - link to another place in the doc
-here is a [link][another and in the bottom of the doc [another: www.google.com
+here is a [link][another and in the bottom of the doc [another: www.google.com  
 ex. [link][another] 
 
 [another]: www.google.com
 
 ### Images
 
-1. Inline image link - exclamation point, wrapping link text in a bracket and then wrap the link in parentheses ![text](link
+1. Inline image link - exclamation point, wrapping link text in a bracket and then wrap the link in parentheses ![text](link  
 ex. ![image](https://octodex.github.com/images/bannekat.png)
 
-2. Reference image - same as link but with exclamation point
+2. Reference image - same as link but with exclamation point  
 ex. ![The funding father][Father]
 
 [Father]: https://octodex.github.com/images/founding-father.jpg
@@ -70,3 +70,8 @@ ex.
    ex.  
    First line  
    Second line
+
+
+### Emojis
+
+All available emojis and their code: [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
